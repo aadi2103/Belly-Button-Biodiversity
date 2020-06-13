@@ -1,6 +1,6 @@
 # Plot.ly Homework - Belly Button Biodiversity
 
-# https://adityabhatnagar2103.github.io/Belly-Button-Biodiversity/
+## https://aadi2103.github.io/Belly-Button-Biodiversity/
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
